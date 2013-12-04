@@ -1,0 +1,24 @@
+<?php
+/**
+ * Midget Template
+ * 
+ * @category Midget
+ * @package  Midget
+ * @author   Olle Bröms <olle.broms@ewebbyran.se>
+ * @license  http://opensource.org/licenses/MIT MIT
+ * @link     http://midget.io/
+ */
+
+/**
+ * Midget_Template
+ * 
+ * @category Midget
+ * @package  Midget
+ * @author   Olle Bröms <olle.broms@ewebbyran.se>
+ * @license  http://opensource.org/licenses/MIT MIT
+ * @link     http://midget.io/
+ */
+class Midget_Template
+{
+
+}

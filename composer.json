@@ -1,0 +1,17 @@
+{
+    "name": "midget/engine",
+    "description": "A template engine",
+    "version": "0.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Olle Bröms",
+            "email": "olle.broms@ewebbyran.se"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*",
+        "squizlabs/php_codesniffer": "1.*",
+        "phpdocumentor/phpdocumentor": "2.1.*"
+    }
+}

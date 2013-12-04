@@ -1,0 +1,39 @@
+<?php
+/**
+ * Midget Parser
+ * 
+ * @category Midget
+ * @package  Midget
+ * @author   Olle Bröms <olle.broms@ewebbyran.se>
+ * @license  http://opensource.org/licenses/MIT MIT
+ * @link     http://midget.io/
+ */
+
+require_once 'Midget/Template.php';
+
+/**
+ * Midget_Parser
+ * 
+ * @category Midget
+ * @package  Midget
+ * @author   Olle Bröms <olle.broms@ewebbyran.se>
+ * @license  http://opensource.org/licenses/MIT MIT
+ * @link     http://midget.io/
+ */
+class Midget_Parser
+{
+    /**
+     * Parses the text and returns a Midget_Template instance
+     * 
+     * @param string $text A template text
+     * 
+     * @return Midget_Template
+     */
+    public function parse($text)
+    {
+        $template = new Midget_Template();
+
+        return $template;
+    }
+
+}
